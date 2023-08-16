@@ -1,0 +1,13 @@
+1 - http://127.0.0.1:8000/api/meals/meal_pk/rate_meal
+
+request data = starts
+request user = user
+starts + user from request
+pk from url 
+
+endpoint to update\create rate for specific meal using Meal viewset not rate 
+viwes > add the custom function with @action decorator
+
+2 - Meal list API show the average rating and number of rating 
+models > add custom function\method in the model to calculate the avg and sum
+serialzer > add the avg and sum to the fields

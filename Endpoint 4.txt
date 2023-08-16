@@ -1,0 +1,7 @@
+1- URL to request token of specific user
+
+2- Only authenticated users can create and update meal rate 
+
+3- Register users
+
+4-General secuity checks 
